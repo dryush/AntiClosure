@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiClosure", "AntiClosure\AntiClosure.csproj", "{996AF1B7-2D5C-47C0-A55B-4B3B768D26F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntiClosure", "AntiClosure\AntiClosure.csproj", "{996AF1B7-2D5C-47C0-A55B-4B3B768D26F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiClosure.Test", "AntiClosure.Test\AntiClosure.Test.csproj", "{44B6D65C-A1C1-4E37-9948-866D91EB1AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{996AF1B7-2D5C-47C0-A55B-4B3B768D26F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996AF1B7-2D5C-47C0-A55B-4B3B768D26F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996AF1B7-2D5C-47C0-A55B-4B3B768D26F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B6D65C-A1C1-4E37-9948-866D91EB1AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B6D65C-A1C1-4E37-9948-866D91EB1AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B6D65C-A1C1-4E37-9948-866D91EB1AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B6D65C-A1C1-4E37-9948-866D91EB1AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
